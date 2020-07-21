@@ -19,6 +19,9 @@ AC3: The output should be a string represents the multiplication table. Suppose 
 ## Acceptance Criteria
 
 - Please draw task diagrams.
+
+result
+![image](https://github.com/xuxiaoqi-xxq/multiply-table-2020-7-21-6-20-7-389/blob/master/context%20map%20of%20multiply%20table.png)
 - Please define all the methods according to your task diagram.
 - Please write down a test case using _given...when...then_ pattern for a leaf block. Then implement the block to pass the test.
 - Please continue doing this work until all the requirement has been fulfilled.,
